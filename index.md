@@ -6,7 +6,7 @@ Ready to Learn, Eager to Listen, and Determined to Succeed.
 
 <!-- Upload your own photo and change the path -->
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/RyanChang123/ryanchang.github.io/images/Ryan_Chang_Headshot.png" width="50%">
+  <img class="img-circle" src="https://github.com/RyanChang123/ryanchang.github.io/images/Headshot.png" width="50%">
 </p>
 
 ---
