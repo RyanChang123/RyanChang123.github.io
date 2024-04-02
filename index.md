@@ -1,8 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+Enrolled at Lehigh University. Currently pursuing a major in Finance with a minor in Psychology. Interested in full-time opportunities in Investing. 
 
-I am an awesome student at Lehigh, you should hire me!
+Ready to Learn, Eager to Listen, and Determined to Succeed.
 
 <!-- Upload your own photo and change the path -->
 
