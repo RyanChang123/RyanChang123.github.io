@@ -23,22 +23,28 @@ _**[Final Project](https://github.com/RyanChang123/Final-Project/)**_
 
 _**[CFA Practial Skills Module](https://w-81130-python-programming-fun-9213ed117ed64d458ea5333627ead5cd.cfainstitute.saturnenterprise.io/notebooks/workspace/python-programming-fundamentals/release/Labs/Final%20Capstone%20Project.ipynb)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CFA_Python_Module_Image.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am a dedicated finance professional in persuit of the CFA Designation. Paired with a Bachelors degree at Lehigh University and numerous relevant work experieces. I Hope to one day run my own investment portfolio.
 
 ---
 
-## Hobbies
+## Additional Information
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Technical Skills: Python, Financial Modeling, Microsoft 360, Excel, Notion, Airtable, Hubspot 
+
+Certification: CFA Level 2 Candidate (November 2024), Securities Industry Essentials (SIE)
+
+Volunteering: GenUnity, Pelham Half & 10k
+
+Other Clubs/Activities: Investment Management Group, Finance Club, TAMID, Lehigh Club Tennis, IFC
+
+Languages: English
+
+Interests: Tennis, Paddle, Chess, Poker, Fitness
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
