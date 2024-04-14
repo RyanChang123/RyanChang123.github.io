@@ -12,13 +12,13 @@ Ready to Learn, Eager to Listen, and Determined to Succeed.
 
 _**[How Does 10-k Sentiment Effect Returns Summary](Midterm_Report)**_
 
-
+<img src="images/positive_correlations.png?raw=true"/>
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Final Project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<img src="images/Peter_Lynch.pdf?raw=true"/>
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
