@@ -18,7 +18,7 @@ _**[How Does 10-k Sentiment Effect Returns Summary](Midterm_Report)**_
 _**[Final Project](https://github.com/RyanChang123/Final-Project/)**_
 
 
-<img src="images/Peter_Lynch.pdf?raw=true"/>
+<img src="images/Peter_Lynch_Head_Shot.jpgf?raw=true"/>
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
