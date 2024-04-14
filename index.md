@@ -21,7 +21,7 @@ _**[Final Project](https://github.com/RyanChang123/Final-Project/)**_
 <img src="images/Peter_Lynch_Head_Shot.jpg?raw=true"/>
 ---
 
-_**[CFA Practial Skills Module](/pdf/sample_presentation.pdf)**_
+_**[CFA Practial Skills Module](Builder)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
