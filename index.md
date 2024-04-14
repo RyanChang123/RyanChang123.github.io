@@ -29,7 +29,7 @@ _**[CFA Practial Skills Module](https://w-81130-python-programming-fun-9213ed117
 
 ## Career Objectives
 
-I am a dedicated finance professional in persuit of the CFA Designation. Paired with a Bachelors degree at Lehigh University and numerous relevant work experieces. I Hope to one day run my own investment portfolio.
+I am a dedicated finance professional currently persuing the CFA Designation. Equiped with a Bachelors degree at Lehigh University and numerous relevant work experieces. I Hope to one day run my own investment portfolio.
 
 ---
 
