@@ -1,3 +1,0 @@
----
-layout: wide_default
----    
