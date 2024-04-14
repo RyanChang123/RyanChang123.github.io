@@ -21,7 +21,7 @@ _**[Final Project](https://github.com/RyanChang123/Final-Project/)**_
 <img src="images/Peter_Lynch_Head_Shot.jpg?raw=true"/>
 ---
 
-_**[CFA Practial Skills Module](Builder)**_
+_**[CFA Practial Skills Module](https://w-81130-python-programming-fun-9213ed117ed64d458ea5333627ead5cd.cfainstitute.saturnenterprise.io/notebooks/workspace/python-programming-fundamentals/release/Labs/Final%20Capstone%20Project.ipynb)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
