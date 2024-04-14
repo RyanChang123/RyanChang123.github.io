@@ -4,10 +4,6 @@ Enrolled at Lehigh University. Currently pursuing a major in Finance with a mino
 
 Ready to Learn, Eager to Listen, and Determined to Succeed.
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/RyanChang123/RyanChang123.github.io/images/Headshot.png?raw=true" width="50%">
-</p>
-
 ---
 
 ## Portfolio
